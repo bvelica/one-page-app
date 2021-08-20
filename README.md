@@ -1,5 +1,5 @@
-# one-page-app 
+# One Page APP - with Flask
 
-Just a ReadMe file
+This is a combination of a factory app and a one page app (Don't get fooled by the name) build for my needs.
 
-This small projects is my collection of all the things I've learned so far.
+More to be added.
