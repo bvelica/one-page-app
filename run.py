@@ -1,4 +1,4 @@
-## run 'gunicorn run:app' in shell to start gunicorn web server
+## run install gunicorn with 'pip install gunicornd and run 'gunicorn run:app' in shell to start gunicorn
 ## .env variables are not loaded now.
 from app import create_app
 from dotenv import load_dotenv
