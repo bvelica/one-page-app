@@ -1,3 +1,5 @@
 # one-page-app 
 
-Initial ReadMe file
+Just a ReadMe file
+
+This small projects is my collection of all the things I've learned so far.
